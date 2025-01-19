@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hero-sprint/static/css/main.98f086e4.css",
+    "main.js": "/hero-sprint/static/js/main.c4170807.js",
+    "index.html": "/hero-sprint/index.html",
+    "main.98f086e4.css.map": "/hero-sprint/static/css/main.98f086e4.css.map",
+    "main.c4170807.js.map": "/hero-sprint/static/js/main.c4170807.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f086e4.css",
+    "static/js/main.c4170807.js"
+  ]
+}
